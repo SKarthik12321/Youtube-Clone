@@ -7,7 +7,6 @@ A fully responsive YouTube Clone built using HTML, CSS, and JavaScript. This pro
 - 🎥 **Responsive Video Grid** – Adapts to different screen sizes for an optimized viewing experience.
 - 🔍 **Search Bar** – Simulated search functionality for a real YouTube-like experience.
 - 📜 **Sidebar & Navigation** – Includes categories and trending sections.
-- 🌙 **Dark Mode Support** – Toggle between light and dark themes.
 
 ## Technologies Used
 
